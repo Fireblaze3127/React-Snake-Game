@@ -1,14 +1,13 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import ComponentA from './componentA'
+import Board from './board'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <ComponentA/>
-        <ComponentA/>
+        <Board/>
       </header>
     </div>
   );
