@@ -3,6 +3,9 @@ Learning React by creating a snake game
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# TODO
+Create food spawning, game flow and collision detection
+
 ## Available Scripts
 
 In the project directory, you can run:
