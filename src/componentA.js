@@ -1,3 +1,4 @@
+//test component when learning react
 import React from 'react'
 
 class ComponentA extends React.Component {
